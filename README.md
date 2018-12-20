@@ -3,6 +3,6 @@ Brief introduction to elementary concepts of computational neuroscience. Please 
 
 
 Content:
-- [External links to further material](./Sources.md) 
+- [External links to further material](./SOURCES.md) 
 
 
