@@ -1,6 +1,5 @@
 # Foundations of computational neuroscience
-Brief introduction to elementary concepts of computational neuroscience.   
-Please have a look on [how we work](./MISSION_STATEMENT.md).
+A guide on how you will [find information here and how we work](./MISSION_STATEMENT.md).
 
 
 Content:
