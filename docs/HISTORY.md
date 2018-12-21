@@ -2,7 +2,7 @@
 Interest in the brain is quite old.   
 ![Ancient trepanned scull 10.000 BC](./images/ancient_trepanned_scull.png)
 
-The idea of "Neuroscience" is quite recent.
+The idea of "neuroscience" is quite recent.
 Computational neuroscience is the largest and fastest growing field in experimental biology.
 
 Eventlist of [milestones in neuroscience research](https://faculty.washington.edu/chudler/hist.html) 
