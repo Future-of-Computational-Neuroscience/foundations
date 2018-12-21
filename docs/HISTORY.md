@@ -1,6 +1,4 @@
 # History of Neuroscience
-
-## Summary
 Interest in the brain is quite old.   
 ![Ancient trepanned scull 10.000 BC](./images/ancient_trepanned_scull.png)
 
