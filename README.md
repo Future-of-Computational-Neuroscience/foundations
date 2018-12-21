@@ -3,4 +3,5 @@ A guide on how you will [find information here and how we work](./docs/MISSION_S
 
 
 Content:
+- [History of Neuroscience](./docs/HISTORY.md)
 - [External links to further material](./docs/SOURCES.md)
