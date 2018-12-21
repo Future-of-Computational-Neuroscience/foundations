@@ -1,14 +1,13 @@
 # History of Neuroscience
 
 ## Summary
-Interest in the brain is quite old.
+Interest in the brain is quite old.   
 ![Ancient trepanned scull 10.000 BC](./images/ancient_trepanned_scull.png)
 
 The idea of "Neuroscience" is quite recent.
 Computational neuroscience is the largest and fastest growing field in experimental biology.
 
-Computational neurobiology is a sub-field of neuroscience.
-
+Computational neurobiology is a sub-field of neuroscience.   
 There are also:
 - [Developmental neurobiology](https://www.google.com/search?q=developmental+neurobiology) - development and maturation of the brain
 - [Molecular neurobiology](https://www.google.com/search?q=molecular+neurobiology) - genetic determination of brain structure and function  
