@@ -16,7 +16,7 @@ There are also:
 - [Neurophysiology](https://www.google.com/search?q=Neurophysiology) - function of cells of the nervous system
 - [Psychophysics](https://www.google.com/search?q=Psychophysics) - quantitative measurement of perception
 
-[Milestones in neuroscience research](https://faculty.washington.edu/chudler/hist.html) 
+Eventlist of [milestones in neuroscience research](https://faculty.washington.edu/chudler/hist.html) 
 
 ## Leading Questions
 - Where are the origins of neuroscience?
