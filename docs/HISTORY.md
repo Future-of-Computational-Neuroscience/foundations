@@ -5,7 +5,7 @@ Interest in the brain is quite old.
 The idea of "neuroscience" is quite recent.
 Computational neuroscience is the largest and fastest growing field in experimental biology.
 
-Eventlist of [milestones in neuroscience research](https://faculty.washington.edu/chudler/hist.html) 
+Eventlist of [milestones in neuroscience research](https://faculty.washington.edu/chudler/hist.html). 
 
 Computational neurobiology is a sub-field of neuroscience.   
 There are also:
@@ -26,6 +26,6 @@ There are also:
 - [History of neuroscience](https://www.google.com/search?q=history+of+neuroscience)
 
 ## Credits
-- brief overview of related fields- thanks to [Bernstein Center for
+- brief overview of related fields - thanks to [Bernstein Center for
 Computational Neuroscience
 Berlin](https://www.bccn-berlin.de/)
