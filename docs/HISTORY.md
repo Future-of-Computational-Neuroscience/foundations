@@ -20,6 +20,7 @@ There are also:
 
 ## Leading Questions
 - Where are the origins of neuroscience?
+- What are important milestones in the history of neuroscience?
 - What is the current status of neuroscience?
 
 ## Further Sources
